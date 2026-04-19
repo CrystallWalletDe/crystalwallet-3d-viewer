@@ -1,0 +1,13 @@
+{
+  "type": "rich",
+  "version": "1.0",
+  "title": "CrystalWallet PCB \u2014 Interactive 3D View",
+  "provider_name": "CrystalWallet",
+  "provider_url": "https://crystalwallet.shop",
+  "width": 960,
+  "height": 640,
+  "html": "<iframe src=\"https://crystallwalletde.github.io/crystalwallet-3d-viewer/\" width=\"960\" height=\"640\" frameborder=\"0\" allowfullscreen allow=\"xr-spatial-tracking\"></iframe>",
+  "thumbnail_url": "https://meloss64-jpkqa.wordpress.com/wp-content/uploads/2026/04/pcb_3d_isometric_dark.png",
+  "thumbnail_width": 1024,
+  "thumbnail_height": 768
+}
